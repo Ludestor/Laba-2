@@ -9,6 +9,10 @@
 
 
 ## Описание кода
+
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuKwTomhXAU-7coN2atu3_uOo9POxnO1)
+
+ 
 Мы используем библиотеки numpy, pandas, torch, sentence_transformers и scipy для обработки данных и измерения семантической близости.
 
 
